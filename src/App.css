@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.App {
+  background-color: #f4f4f4;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Add any additional styles for the overall layout of your app here */
